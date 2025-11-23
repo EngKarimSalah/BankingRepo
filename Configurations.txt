@@ -1,1 +1,2 @@
 adding http configuration
+adding Dns protocol Configs
